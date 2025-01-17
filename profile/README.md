@@ -10,3 +10,5 @@ This project has 3 parts:
 - [Firmware](https://github.com/youdbetterrun/youdbetterrun-firmware): The code that runs on the microcontroller.
 - [PCB](https://github.com/youdbetterrun/youdbetterrun-pcb): The design files for the printed circuit board.
 - [3D](https://github.com/youdbetterrun/youdbetterrun-3d): 3D models that need to be 3D printed and assembly instructions.
+
+[Blog post about this project.](https://blog.marcelrobitaille.me/youdbetterrun/)
